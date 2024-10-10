@@ -7,12 +7,21 @@ Neste repositório, você encontrará os exercícios da disciplina de desenvolvi
 Tecnologias Utilizadas
 Java
 Apache NetBeans
+
 Como Executar os Exercícios
 Clone o repositório:
-git clone https://github.com/EveliseRibino/listasDesktop.git
-Abra o projeto no Apache NetBeans. Compile e execute os exercícios diretamente na IDE. Licença Este projeto está sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Licença MIT MIT License
+git clone https://github.com/EveliseRibino/listasDesktop.git
+
+Abra o projeto no Apache NetBeans.
+
+Compile e execute os exercícios diretamente na IDE.
+
+Licença
+Este projeto está sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Licença MIT
+MIT License
 
 Copyright (c) 2024 Evelise
 
